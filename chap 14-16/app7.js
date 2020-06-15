@@ -1,0 +1,10 @@
+var arr = ["SSC", "HSC","BCS", "BS", "BCOM", "MS", "M.PHIL", "PHD"];
+document.write("Qualification" ,"<br>","<br>")
+document.write("1)", arr[0], "<br>" )
+document.write("2)", arr[1], "<br>" )
+document.write("3)", arr[2], "<br>" )
+document.write("4)", arr[3], "<br>" )
+document.write("5)", arr[4], "<br>" )
+document.write("6)", arr[5], "<br>" )
+document.write("7)", arr[6], "<br>" )
+document.write("8)", arr[7], "<br>" )
